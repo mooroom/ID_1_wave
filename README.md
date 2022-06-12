@@ -1,5 +1,5 @@
 # ID_1_wave
- 인터랙티브개발 챌린지#1
+ 인터랙티브개발 챌린지#1 (2021)
 
 - HTML Canvas를 활용한 wave motion 구현 
 - mouse position의 높이에 반응
